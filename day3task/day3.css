@@ -1,0 +1,119 @@
+header{
+    background-color: #DE8F5F;
+    color: white;
+    text-align: center;
+    height: 90px;
+    width: 100%;
+    padding: 10px;
+
+}
+#parent{
+    display: flex;
+     flex-wrap: wrap;
+     margin-left:60px ;
+     column-gap: 10px;
+     row-gap: 5px; 
+     margin-left: 20%s; 
+}
+.child1{
+    border:3px solid gray ;
+    border-radius: 2px;
+    padding:25px;
+    align-content: center;
+    width: 30%;
+
+   
+   
+    
+    
+
+}
+.a{
+    text-decoration: underline;
+    font-weight: bold;
+    text-align:center;
+}
+.child2{
+    border:3px solid gray ;
+    border-radius: 2px;
+    padding:25px;
+    align-content: center;
+    width: 30%;
+    
+
+
+}
+.b{
+    text-decoration: underline;
+    font-weight: bold;
+    text-align: center;
+}.child3{
+    border:3px solid gray  ;
+    border-radius: 2px;
+    padding:25px;
+    width: 30%; 
+
+
+}
+.c{
+    text-decoration: underline;
+    font-weight: bold;
+    text-align: center;
+}.child4{
+    border:3px solid  gray  ;
+    border-radius: 2px;
+    padding:25px;
+    width: 30%;
+   
+
+
+}
+.d{
+    text-decoration: underline;
+    font-weight: bold;
+    text-align: center;
+}.child5{
+    border:3px solid gray  ;
+    border-radius: 2px;
+    padding:25px;
+    width: 30%;
+
+    
+
+
+}
+.e{
+    text-decoration: underline;
+    font-weight: bold;
+    text-align: center;
+}.child6{
+    border:3px solid  gray  ;
+    border-radius: 2px;
+    padding:25px;
+    width: 30%;
+    
+
+
+}
+.f{
+    text-decoration: underline;
+    font-weight: bold;
+    text-align: center;
+}
+*{
+    box-sizing: border-box;
+}
+footer{
+
+    background-color: #DE8F5F;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    height: 70px;
+    width: 100%;
+    padding: 10px;
+    
+}
+
+
+
